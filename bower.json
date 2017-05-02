@@ -1,0 +1,32 @@
+{
+  "name": "bower-openlayer",
+  "description": "Openlayers with bower install",
+  "main": [
+    "ol.js",
+    "ol.css"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "moduleType": [
+  
+  ],
+  "keywords": [
+    "map"
+  ],
+  "authors": [
+    "Hürkan AKBIYIK <hurkanakbiyik@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": false
+}
